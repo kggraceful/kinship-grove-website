@@ -1,0 +1,28 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Node modules (for later when you use JavaScript tools)
+node_modules/
